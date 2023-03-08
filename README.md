@@ -1,2 +1,1 @@
-First shell basic
-
+Shell script basics 
