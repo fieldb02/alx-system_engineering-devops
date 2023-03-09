@@ -15,4 +15,3 @@
 6. 		Add an execute permission to the owner of the file, group and gives other read only
 
 7. 		Gives execute permission to user, group and others without using commas
-
