@@ -8,4 +8,6 @@
 
 3. 		Change ownership of hello to betty 
 
-4. 		Script that creates the hello file   
+4. 		Script that creates the hello file  
+
+5. 		Add an execute permission to hello file in the directory  
