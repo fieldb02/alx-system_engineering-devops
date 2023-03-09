@@ -19,3 +19,5 @@
 8.  		Gives all permission to the other users only
 
 9. 		9-John_Doe
+
+10. 		Mirro Permissions 
