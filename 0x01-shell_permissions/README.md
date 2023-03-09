@@ -21,3 +21,5 @@
 9. 		9-John_Doe
 
 10. 		Mirro Permissions 
+
+11. 		Script to give execute permissions to user, group and other for the subdirectories in the currect directory
