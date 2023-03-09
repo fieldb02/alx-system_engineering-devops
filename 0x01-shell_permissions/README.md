@@ -11,3 +11,5 @@
 4. 		Script that creates the hello file  
 
 5. 		Add an execute permission to hello file in the directory  
+
+6. 		Add an execute permission to the owner of the file, group and gives other read only
