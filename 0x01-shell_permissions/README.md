@@ -25,3 +25,6 @@
 11. 		Script to give execute permissions to user, group and other for the subdirectories in the currect directory 
 
 12. 		12-directory_permissions
+
+13. 		Changing group file ownership
+
