@@ -1,2 +1,2 @@
 #!/bin/bash
-cat | grep | sort | uniq -u
+cat | sort | uniq -u
