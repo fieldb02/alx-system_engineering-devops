@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#Prints out the CWD
+# Shell-Check disable=SC2009
+ps aux | grep 'bash'
