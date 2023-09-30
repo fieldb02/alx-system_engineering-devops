@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#Prints out the CWD
+ps -aux --forest
